@@ -24,11 +24,11 @@ Esse projeto foi desenvolvido para praticar consumo de APIs REST em JavaScript p
 
 🛠️ Tecnologias utilizadas
 
-HTML5 — estruturação da página
-CSS3 — estilização, gradientes, efeitos de vidro fosco (glassmorphism) e responsividade
-JavaScript (Vanilla JS) — lógica da aplicação, manipulação do DOM e requisições assíncronas
-OpenWeatherMap API — dados de clima em tempo real
-Unsplash API — imagens de fundo dinâmicas baseadas no clima
+HTML5 / estruturação da página
+CSS3 / estilização, gradientes, efeitos de vidro fosco (glassmorphism) e responsividade
+JavaScript (Vanilla JS) / lógica da aplicação, manipulação do DOM e requisições assíncronas
+OpenWeatherMap API / dados de clima em tempo real
+Unsplash API / imagens de fundo dinâmicas baseadas no clima
 
 🧠 Conceitos praticados
 Requisições assíncronas com fetch, async/await e try/catch/finally
